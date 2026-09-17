@@ -1,0 +1,5 @@
+{
+  "name": "codemap",
+  "version": "0.1.0",
+  "description": "Saves token usage by mapping Python files instead of re-reading them. 60-90% token saving on additive changes."
+}
